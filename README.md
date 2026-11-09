@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# certifications
-CAHO Certificate](./CAHO%20SAKCON202025
+### Certifications
+
+- *CAHO Certificate:*<br>
+  <img src="./CAHO SAKCON 2025 Bhavanam..." alt="CAHO Certificate" width="400">
+
+- *Junior Qualitist Level 1:*<br>
+  <img src="./Junior Qualitist leavel 1.jpeg" alt="Junior Qualitist" width="400">
+
+- *Qimpro 4th Runner Up:*<br>
+  <img src="./Qimpro 4th Runner up.jpeg" alt="Qimpro Award" width="400">
