@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Profile photo.jpeg" alt="Chithra Benoy" width="160" height="160" style="border-radius: 50%;">
+</p>
 # Hi, I'm Chithra Benoy 👋
 ### Master of Hospital Administration (MHA) 
 Focused on optimizing clinical workflows, reducing Turnaround Times (TAT), and ensuring NABH compliance through data-driven operational strategies and quality evaluation tools.
@@ -11,16 +14,25 @@ Focused on optimizing clinical workflows, reducing Turnaround Times (TAT), and e
 
 ---
 
-## 📜 Certifications & Achievements
+## 📜 Certifications 
+*  *CAHO SAKCON 2025 Participation Certificate*
+  * [![CAHO SAKCON Certificate](./CAHO%20SAKCON%202025%20Bhavanam.jpeg)](./CAHO%20SAKCON%202025%20Bhavanam.jpeg)
+  * *CAHO SAKCON 2025 Participation Certificate* — [View Certificate](./CAHO%20SAKCON%202025%20Bhavanam...)
 
-<p float="left">
-  <img src="https://github.com/chithrabenoy2001-netizen/chithrabenoy2001-netizen/blob/main/Junior%20Qualitist.jpeg" width="45%" />
-  <img src="https://github.com/chithrabenoy2001-netizen/chithrabenoy2001-netizen/blob/main/QualTech%20Prize.jpeg" width="45%" />
-</p>
+## Certification & Awards
+* *Qimpro 2nd Runner Up (2026)*
+  * [![Qimpro 2nd Runner Up](./Qimpro%202nd%20Runner%20up.jpeg)](./Qimpro%202nd%20Runner%20up.jpeg)
+* 🎖️ *Qimpro 4th Runner Up (2025)*
+  * [![Qimpro 4th Runner Up](./Qimpro%204th%20Runner%20up.jpeg)](./Qimpro%204th%20Runner%20up.jpeg)
+* 📜 *Junior Qualitist Level 1 & Level 2*
+  * *Level 1:* [![Junior Qualitist Level 1](./Junior%20Qualitist%20leavel%201.jpeg)](./Junior%20Qualitist%20leavel%201.jpeg)
+  * *Level 2:* [![Junior Qualitist Level 2](./Junior%20Qualitist%20level%202.jpeg)](./Junior%20Qualitist%20level%202.jpeg)
 
-* *Certified Junior Qualitist* – Qimpro Foundation
-* *Qimpro 4th Runner-Up* – QualTech Prize (A. J. Institute of Hospital Management)
+---
 
+### 📊 Key Projects & Portfolio
+
+* *PCA Project Report:* [Download / View PDF](./PCA%20Project.pdf) — Evaluation of Patient Care Assistant task transactions and turnaround time optimization.
 ---
 
 ## 📊 Key Quality Improvement & Audit Projects
@@ -46,4 +58,5 @@ Focused on optimizing clinical workflows, reducing Turnaround Times (TAT), and e
 * *Email:* chithrabenoy2001@gmail.com
 * *Instagram:* [@insta_chithrabinoy](https://instagram.com/insta_chithrabinoy)
 * *LinkedIn:* [https://www.linkedin.com/in/chithra-benoy-6469b3351?utm_source=share_via&utm_content=profile&utm_medium=member_]
+*GitHub:* [chithrabenoy2001-netizen](https://github.com/chithrabenoy2001-netizen)
 
