@@ -17,8 +17,7 @@ Focused on optimizing clinical workflows, reducing Turnaround Times (TAT), and e
 ## 📜 Certifications 
 *  *CAHO SAKCON 2025 Participation Certificate*
   * [![CAHO SAKCON Certificate](./CAHO%20SAKCON%202025%20Bhavanam.jpeg)](./CAHO%20SAKCON%202025%20Bhavanam.jpeg)
-  * *CAHO SAKCON 2025 Participation Certificate* — [View Certificate](./CAHO%20SAKCON%202025%20Bhavanam...)
-
+ 
 ## Certification & Awards
 * *Qimpro 2nd Runner Up (2026)*
   * [![Qimpro 2nd Runner Up](./Qimpro%202nd%20Runner%20up.jpeg)](./Qimpro%202nd%20Runner%20up.jpeg)
